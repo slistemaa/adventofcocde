@@ -1,2 +1,2 @@
-# adventofcocde
+# adventofcode
 Advent of Code repo
