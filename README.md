@@ -1,1 +1,1 @@
-2023 Advent of Code repo
+Advent of Code repo
